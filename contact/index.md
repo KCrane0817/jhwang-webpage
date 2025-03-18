@@ -1,77 +1,42 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 8
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# <i class="fas fa-envelope"></i>Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://westlake.edu.cn/faculty/shouwen-wang.html) in Westlake University. We are located near the beautiful and historical westlake at Hangzhou, 1 hour away from Shanghai by train. 
+
+## Address
+
+Westlake Laboratory 3#306, Shilongshan ST #18, Xihu District, Hangzhou, Zhejiang Province, CN
+
+中国浙江省杭州市西湖区云栖小镇石龙山街18号, 西湖实验室, 3号楼306
 
 {%
-  include button.html
+  include link.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  icon=""
+  text="wangshouwen@westlake.edu.cn"
+  tooltip=""
+  link="wangshouwen@westlake.edu.cn"
+  style="button"
 %}
 {%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
+  include link.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  icon=""
+  text="Baidu Maps"
+  tooltip="Our location on Baidu Maps for easy navigation"
+  link="https://map.baidu.com/poi/%E8%A5%BF%E6%B9%96%E5%AE%9E%E9%AA%8C%E5%AE%A4/@13368202.124999996,3499936.000000002,19z?uid=2c388130d2883a94fea778d0&info_merge=1&isBizPoi=false&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl"
+  style="button"
 %}
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/Hangzhou.jpg" %}
 
 {% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

@@ -1,23 +1,128 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: 10.1038/s41587-022-01209-1
+  image: images/paper_image/cospar.png
+  authors: Shou-Wen Wang*, Michael J. Herriges, Kilian Hurley, Darrell N. Kotton, Allon M. Klein* 
+  extra-links:
+    - type: preprint
+      link: pdfs/cospar.pdf
+      text: Main text
+    - type: preprint
+      link: pdfs/cospar_supp.pdf
+      text: Supplement methods
+    - type: preprint
+      link: https://cospar.readthedocs.io/en/latest/
+      text: Documentation
+    - type: preprint
+      link: https://github.com/AllonKleinLab/cospar
+      text: Code
+    - type: preprint
+      link: https://www.youtube.com/watch?v=rYzQUYPPNlU
+      text: 1 hour video
+    - type: preprint
+      link: https://www.youtube.com/watch?v=HrDQpW3kJFo
+      text: 20min video
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Lineage tracing
+    - Cell fate prediction
+    - Trajectory inference
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: 10.1038/s41586-020-2503-6
+  image: images/paper_image/tcf15.png
+  extra-links:
+    - type: preprint
+      link: pdfs/tcf15.pdf
+      text: Main text
+      link: pdfs/tcf_15_supp.pdf
+      text: Supplement methods
+
+  tags:
+    - Lineage tracing
+    - Serial clonal analysis
+    - Graphic modeling 
+
+- id: 10.1038/s41467-019-13573-9
+  image: images/paper_image/oscillation.png
+  authors: Shou-Wen Wang*, and Lei-Han Tang*
+  extra-links:
+    - type: preprint
+      link: pdfs/collective_oscillation.pdf
+      text: Main text
+    - type: preprint
+      link: pdfs/collective_oscillation_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Collective oscillations
+    - Sensory adaptation
+    - Non-equilibirum statistical physics
+
+- id: 10.1103/PhysRevLett.117.070601
+  image: images/paper_image/entropy.png
+  extra-links:
+    - type: preprint
+      link: pdfs/entropy_production.pdf
+      text: Main text
+    - type: preprint
+      link: pdfs/entropy_production_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Non-equilibrium statistical physics
+    - Entropy production
+    - Time-scale separation
+    - Coarse-graining
+
+- id: 10.1371/journal.pcbi.1007010
+  image: images/paper_image/protein_evolution.png
+  extra-links:
+    - type: preprint
+      link: pdfs/protein_evolution.pdf
+      text: Main text
+    - type: preprint
+      link: pdfs/protein_evolution_supp.pdf
+      text: Supplemental methods
+  tags:
+    - Protein evolution
+    - Single-site mutation effect
+    - Elastic network modeling
+
+
+- id: 10.1103/PhysRevE.97.052125
+  image: images/paper_image/PRE_asymmetry.png
+  extra-links:
+    - type: preprint
+      link: pdfs/PRE_my_own.pdf
+      text: Main text
+  tags:
+    - Non-equilibirum statistical physics
+    - Asymmetric transitions
+
+
+- id: 10.1088/1742-5468/2015/00/P07025
+  image: images/paper_image/2015_adaptation.png
+  extra-links:
+    - type: preprint
+      link: pdfs/energy_dissipation_and_adaptation.pdf
+      text: Main text
+  tags:
+    - Non-equilibirum statistical physics
+    - Sensory adaptation
+
+- id: 10.1088/1751-8113/46/36/365101
+  image: images/paper_image/2013_wave.png
+  extra-links:
+    - type: preprint
+      link: pdfs/2013-wave.pdf
+      text: Main text
+  tags:
+    - Nonlinear dynamics
+    - Synchronization
+
+
+
+    
+
+
+
+    
+
+
+

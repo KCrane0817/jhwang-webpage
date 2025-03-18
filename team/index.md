@@ -1,35 +1,47 @@
 ---
 title: Team
+noindex: true
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ra"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vsco"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: vstu"
+%}
+{:.center}
 
-{% include section.html %}
+# <i class="fas fa-user-graduate"></i>Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+- Chengkun Yang (Emory U. undergraduate), summer intern, 2023.7-2023.8
+- Xiunan Fang (Hong Kong U. PhD), visiting student, 2023.11-2023.12
+- Hao Yan (Beijing Institute of Radiation Medicine. PhD), visiting student, 2024.3-2024.9

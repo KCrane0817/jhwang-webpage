@@ -13,6 +13,6 @@ Affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/facult
 
  {%
   include figure.html
-  image="images/background.png"
+  image="images/banner_art.png"
   width="100%"
 %}

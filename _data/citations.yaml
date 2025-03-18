@@ -1,247 +1,238 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+- id: 10.1038/s41592-024-02567-1
+  title: High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations
+  authors: Mengyang Chen, Ruijiang Fu, Yiqian Chen, Li Li* & Shou-Wen Wang*
+  publisher: Nature Methods
+  date: '2025-01-16'
+  link: https://www.nature.com/articles/s41592-024-02567-1
+  image: images/paper_image/Methyltree.jpeg
+  extra-links:
+  - type: preprint
+    link: pdfs/MethylTree.pdf
+    text: Main text
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/MethylTree
+    text: Code
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Lineage tracing
+  - Multiomics
+  - Clonal memory
+
+- id: 10.1038/s41592-024-02568-0
+  title: "MethylTree: exploring epimutations for accurate and non-invasive lineage tracing"
+  publisher: Nature Methods
+  date: '2025-01-16'
+  link: https://www.nature.com/articles/s41592-024-02568-0
+  image: images/paper_image/methyltree_lineage.png
+  extra-links:
+  - type: preprint
+    link: pdfs/methyltree_research_briefing.pdf
+    text: Main text
+  tags:
+  - Research Briefing
+
+- id: 10.1016/j.cell.2023.09.019
+  title: A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells
+  authors: L. Li, ..., Shou-Wen Wang*, Fernando D. Camargo*
+  publisher: Cell
+  date: '2023-10-17'
+  link: https://www.cell.com/cell/fulltext/S0092-8674(23)01040-1
+  image: images/paper_image/darlin.png
+  extra-links:
+  - type: preprint
+    link: pdfs/darlin+paper.pdf
+    text: Manuscript
+  - type: preprint
+    link: https://www.youtube.com/watch?v=TywIb_4cPk8
+    text: 30min video
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/MosaicLineage
+    text: Code-analysis
+  - type: preprint
+    link: https://github.com/ShouWenWang-Lab/snakemake_DARLIN
+    text: Code-preprocessing
+  tags:
+  - Lineage tracing
+  - Mouse model
+  - Multiomics
+  - Cell fate
+  - Clonal memory
+  - Migration
+
+- id: 10.1038/s41587-022-01209-1
+  title: CoSpar identifies early cell fate biases from single-cell transcriptomic
+    and lineage information
+  authors: Shou-Wen Wang*, Michael J. Herriges, Kilian Hurley, Darrell N. Kotton,
+    Allon M. Klein*
+  publisher: Nature Biotechnology
+  date: '2022-02-21'
+  link: https://doi.org/gptgwk
+  image: images/paper_image/cospar.png
+  extra-links:
+  - type: preprint
+    link: pdfs/cospar.pdf
+    text: Main text
+  - type: preprint
+    link: pdfs/cospar_supp.pdf
+    text: Supplement methods
+  - type: preprint
+    link: https://cospar.readthedocs.io/en/latest/
+    text: Documentation
+  - type: preprint
+    link: https://github.com/AllonKleinLab/cospar
+    text: Code
+  - type: preprint
+    link: https://www.youtube.com/watch?v=rYzQUYPPNlU
+    text: 1 hour video
+  - type: preprint
+    link: https://www.youtube.com/watch?v=HrDQpW3kJFo
+    text: 20min video
+  tags:
+  - Lineage tracing
+  - Cell fate prediction
+  - Trajectory inference
+  _cache: f97a0207bd1e7a327b5bb351243a3fa03a7f490e450282aafa886c2207c200b0
+- id: 10.1038/s41586-020-2503-6
+  title: Single-cell lineage tracing unveils a role for TCF15 in haematopoiesis
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Alejo E. Rodriguez-Fraticelli
+  - Caleb Weinreb
+  - Shou-Wen Wang
+  - Rosa P. Migueles
+  - Maja Jankovic
+  - Marc Usart
+  - Allon M. Klein
+  - Sally Lowell
+  - Fernando D. Camargo
+  publisher: Nature
+  date: '2020-07-15'
+  link: https://doi.org/gg45cp
+  image: images/paper_image/tcf15.png
+  extra-links:
+  - type: preprint
+    link: pdfs/tcf_15_supp.pdf
+    text: Supplement methods
+  tags:
+  - Lineage tracing
+  - Serial clonal analysis
+  - Graphic modeling
+  _cache: b0ddd4f0afbf516a928be295ede09462981fd6989605b2d75d1115e0276a1e81
+- id: 10.1038/s41467-019-13573-9
+  title: Emergence of collective oscillations in adaptive cells
+  authors: Shou-Wen Wang*, and Lei-Han Tang*
+  publisher: Nature Communications
+  date: '2019-12-01'
+  link: https://doi.org/grgnv4
+  image: images/paper_image/oscillation.png
+  extra-links:
+  - type: preprint
+    link: pdfs/collective_oscillation.pdf
+    text: Main text
+  - type: preprint
+    link: pdfs/collective_oscillation_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Collective oscillations
+  - Sensory adaptation
+  - Non-equilibirum statistical physics
+  _cache: 54ef1ebfd0659eb669ff4264770a11336ac0c9e2e31113b7cbab8e4f2017c916
+- id: 10.1103/PhysRevLett.117.070601
+  title: Entropy Production of Nanosystems with Time Scale Separation
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Shou-Wen Wang
+  - Kyogo Kawaguchi
+  - Shin-ichi Sasa
+  - Lei-Han Tang
+  publisher: Physical Review Letters
+  date: '2016-08-10'
+  link: https://doi.org/gq86bn
+  image: images/paper_image/entropy.png
+  extra-links:
+  - type: preprint
+    link: pdfs/entropy_production.pdf
+    text: Main text
+  - type: preprint
+    link: pdfs/entropy_production_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Non-equilibrium statistical physics
+  - Entropy production
+  - Time-scale separation
+  - Coarse-graining
+  _cache: 37d6190f027126fd3f21b18a769b7ff38e0166a8c57998b849976b32954e38cf
+- id: 10.1371/journal.pcbi.1007010
+  title: Revealing evolutionary constraints on proteins through sequence analysis
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Shou-Wen Wang
+  - Anne-Florence Bitbol
+  - Ned S. Wingreen
+  publisher: PLOS Computational Biology
+  date: '2019-04-24'
+  link: https://doi.org/grgnv3
+  image: images/paper_image/protein_evolution.png
+  extra-links:
+  - type: preprint
+    link: pdfs/protein_evolution.pdf
+    text: Main text
+  - type: preprint
+    link: pdfs/protein_evolution_supp.pdf
+    text: Supplemental methods
+  tags:
+  - Protein evolution
+  - Single-site mutation effect
+  - Elastic network modeling
+  _cache: 20f3f6cdf984043500ada9fe4ba236392fddc2ff4c7dff044e761c9c4c24c7c1
+- id: 10.1103/PhysRevE.97.052125
+  title: Inferring energy dissipation from violation of the fluctuation-dissipation
+    theorem
+  authors:
+  - Shou-Wen Wang
+  publisher: Physical Review E
+  date: '2018-05-18'
+  link: https://doi.org/gdq6vs
+  image: images/paper_image/PRE_asymmetry.png
+  extra-links:
+  - type: preprint
+    link: pdfs/PRE_my_own.pdf
+    text: Main text
+  tags:
+  - Non-equilibirum statistical physics
+  - Asymmetric transitions
+  _cache: df4a5287ba2ea946e940d26093c4b6a53db797c6971750d107389cc3eb1bf8cb
+- id: 10.1088/1742-5468/2015/00/P07025
+  title: Energy dissipation in an adaptive molecular circuit
+  authors:
+  - Shou-Wen Wang
+  - Yueheng Lan
+  - Lei-Han Tang
+  publisher: 'Journal of Statistical Mechanics: Theory and Experiment'
+  date: '2015-07-21'
+  link: https://doi.org/grgnv5
+  image: images/paper_image/2015_adaptation.png
+  extra-links:
+  - type: preprint
+    link: pdfs/energy_dissipation_and_adaptation.pdf
+    text: Main text
+  tags:
+  - Non-equilibirum statistical physics
+  - Sensory adaptation
+  _cache: 9662443f49834f72920daecad4002c854cedf7edd5329ac809d77f98d66ce63c
+- id: 10.1088/1751-8113/46/36/365101
+  title: Nonlinear waves on circle networks with excitable nodes
+  authors:
+  - Shouwen Wang
+  - Yueheng Lan
+  publisher: 'Journal of Physics A: Mathematical and Theoretical'
+  date: '2013-08-14'
+  link: https://doi.org/gkrhrk
+  image: images/paper_image/2013_wave.png
+  extra-links:
+  - type: preprint
+    link: pdfs/2013-wave.pdf
+    text: Main text
+  tags:
+  - Nonlinear dynamics
+  - Synchronization
+  _cache: 270e1fce06472797c8142736e659f8ba03239d2e5b986ccc3eabb5f53c008763
