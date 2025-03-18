@@ -1,81 +1,18 @@
 ---
+title: Home
 ---
 
-# KCrane0817's Website
+# Welcome to the Wang Lab!
+ 
+ Cells serve as the fundamental building blocks of the human body, and a key objective in life science is to unravel their mysteries: their identity, origins, and fates. Addressing these questions requires lineage tracing that could obtain the division histories among the profiled cells. Our lab pioneers in experimental and computational lineage tracing tool development and application. 
 
-An engaging 1-3 sentence description of your lab.
+Affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://westlake.edu.cn/faculty/shouwen-wang.html) in Westlake University, we have assembled an interdisciplinary team comprising individuals with experimental training in life sciences as well as those with quantitative backgrounds such as physics, mathematics, and computer science. With our expertise in data analysis, algorithm development, and the ability to generate single-cell multiomic lineage tracing data in-house, we are committed to developing powerful and versatile lineage tracing tools that enable the study of cell lineage dynamics in their native context at an unprecedented resolution. Please check out our [research description](/research).
 
-{% include section.html %}
 
-## Highlights
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
+ {%
+  include figure.html
+  image="images/background.png"
+  width="100%"
 %}
